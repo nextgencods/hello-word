@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/assets/sulaiman-portrait-hq.webp",
+      "destination": "/assets/sul.jpeg"
+    }
+  ]
+}
