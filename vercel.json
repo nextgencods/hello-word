@@ -1,8 +1,9 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/assets/sulaiman-portrait-hq.webp",
-      "destination": "/assets/sul.jpeg"
+      "destination": "/assets/sul.jpeg",
+      "permanent": false
     }
   ]
 }
