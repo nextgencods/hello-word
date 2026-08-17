@@ -1,0 +1,1 @@
+Restore Git-backed production after image rendering issue.
